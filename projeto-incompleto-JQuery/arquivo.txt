@@ -1,0 +1,1 @@
+<p>Este é o conteúdo recuperado pela nossa aplicação através de uma requisição ajax!</p>
